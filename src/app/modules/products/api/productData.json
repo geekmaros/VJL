@@ -1,0 +1,23 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "name": "iPhone 14 Pro Max",
+    "desc": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+    "price": 1999
+  },
+  {
+    "userId": 1,
+    "id": 1,
+    "name": "MacBook Pro 16 Inches",
+    "desc": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+    "price": 3999
+  },
+  {
+    "userId": 1,
+    "id": 1,
+    "name": "iWatch",
+    "desc": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+    "price": 499
+  }
+]
